@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 37015765dd2a06c45b896525878d04f1
+  - enabled: 1
+    path: Assets/Scenes/SkinMenu.unity
+    guid: 2e04c166945b1ec44a292df4b0741aa6
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: a17324c0e4c8f284ca70b0be3b97d863
+  - enabled: 1
+    path: Assets/Scenes/FortuneMenu.unity
+    guid: 429604b72a41a3d47a1ee049177287e0
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a20cfd77a63ed114fae518804b7564bf, type: 2}
