@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skin
+  m_EditorClassIdentifier: 
+  m_GroupName: Skin
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e1bd27d8c97765a438dd9c92bc9f0593
+  m_SerializeEntries:
+  - m_GUID: 2f872ad270766403b82f878757e70cd9
+    m_Address: Assets/Bundles/Models/MiddleBrushPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiddleBrushPrefab
+  - m_GUID: 509a42589b79847ffaeac785a662449c
+    m_Address: Assets/Bundles/Models/BigBrushPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BigBrushPrefab
+  - m_GUID: 296a09cb48c0a074aa79941c962e8f94
+    m_Address: Assets/Bundles/Material/Brush_1/Brush_1_Green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Green
+  - m_GUID: 1ed5de6c89c10b24d8246a299a9b0437
+    m_Address: Assets/Bundles/Material/Brush_1/Brush_1_BlackBlue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BlackBlue
+  - m_GUID: c426c8eff4d0c6846b8c3e8e69a8227e
+    m_Address: Assets/Bundles/Material/Brush_1/Brush_1_Red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Red
+  - m_GUID: 68f6684982891204b82c50aa4d4da4ba
+    m_Address: Assets/Bundles/Material/Brush_1/Brush_1_WhitePurple.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WhitePurple
+  - m_GUID: c09677a5cea3d6d4bac42007c79029dc
+    m_Address: Assets/Bundles/Material/Brush_1/Brush_1_DarkPurple.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DarkPurple
+  - m_GUID: e573dbf2b6e3b6a4299dc10eb95c85e9
+    m_Address: Assets/Bundles/Material/Brush_1/Brush_1_Blue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Blue
+  - m_GUID: 33f213d2b9ea7c845bf5e0e4ada530cc
+    m_Address: Assets/Bundles/Material/Brush_1/BrushYellow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Yellow
+  - m_GUID: bc0115835c720b04aa7aee9f19632270
+    m_Address: Assets/Bundles/Material/Brush_4/Brush_4_Paint.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DarkPurple
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 18dbbf2539491344098929d1fd1e543d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8e25d87b884ecc041a21a8892a4801b3, type: 2}
+    - {fileID: 11400000, guid: 00edf31bbd3c57443a96cf331fce6498, type: 2}
